@@ -1,3 +1,5 @@
+# This is the first draft of Project 4 for DSC106
+----------------
 # About Project 4
 In our Los Angeles: A Decade of Car Accidents Project, we implemented an interactive website that shows Traffic Collision Incidents in LA from 2010-2019. The data was taken from the LACity.org website. As a team, Derrick helped with processing the data, removing and adding columns to make it easier to run in JavaScript. Sai helped with the visual direction of the website and code positioning of the CSS and HTML gri, along with the Scroller-Svelte import. Marlon helped with writing the code for creating the map on our website. Furthermore, we all contributed and helped each other in writing the  code for the rest of the website. 
 
@@ -6,3 +8,5 @@ The most challenging part of the project was setting up the Mapbox import to sho
 
 # Set up
 npm run dev -- --open
+
+
